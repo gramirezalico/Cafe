@@ -1,0 +1,29 @@
+{
+  "Nombre marca": "Marcian",
+  "Personalidad marca": "Tradicional, Moderna",
+  "Valores marca": "Autenticidad, Excelencia",
+  "Tipo de audiencia": "Jóvenes (18-30 años), Adultos jóvenes (30-45 años), Estudiantes",
+  "Emociones marca": "Lujo",
+  "Información pertinente": "Instrucciones de conservación",
+  "Propuesta de valor": "Calidad superior del grano, Origen único/exclusivo",
+  "Colores": "Blanco/Grises claros",
+  "Estilo grafico": "Vintage",
+  "Tamaño del empaque": "250 gr",
+  "Referencia cultural": "Tradiciones Indígenas",
+  "Referencia de algún competidor": "Águila Roja",
+  "Factor diferenciador": "Impacto social positivo",
+  "Elementos gráficos Juntos": "6",
+  "Elementos gráficos Similares": "5",
+  "Elementos gráficos Completos": "5",
+  "Elementos gráficos Posicion": "6",
+  "processed_at": "2025-07-14T21:09:35.386Z",
+  "data_version": "2.0",
+  "timestamp": "2025-07-14T21:09:35.387Z",
+  "id": "1752527375387",
+  "error_webhook": "Request failed with status code 500",
+  "error_details": {
+    "message": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:2053:12)\n    at IncomingMessage.handleStreamEnd (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:3170:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:4280:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async E:\\source\\repos\\Encuesta_Empaque\\backend\\app.js:194:31",
+    "timestamp": "2025-07-14T21:09:35.387Z"
+  }
+}

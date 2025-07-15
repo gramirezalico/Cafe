@@ -1,0 +1,29 @@
+{
+  "Nombre marca": "Safiro",
+  "Personalidad marca": "Amigable, Elegante",
+  "Valores marca": "Innovación, Calidad",
+  "Tipo de audiencia": "Jóvenes (18-30 años), Adultos jóvenes (30-45 años)",
+  "Emociones marca": "Alegría",
+  "Información pertinente": "Origen/Procedencia",
+  "Propuesta de valor": "Calidad superior del grano, Producto sostenible/ecológico",
+  "Colores": "Tonos tierra (marrones, Beiges)",
+  "Estilo grafico": "Vintage",
+  "Tamaño del empaque": "250 gr",
+  "Referencia cultural": "Cultura Colombiana",
+  "Referencia de algún competidor": "Juan Valdez",
+  "Factor diferenciador": "Mayor calidad",
+  "Elementos gráficos Juntos": "7",
+  "Elementos gráficos Similares": "7",
+  "Elementos gráficos Completos": "7",
+  "Elementos gráficos Posicion": "6",
+  "processed_at": "2025-07-15T12:31:03.669Z",
+  "data_version": "2.0",
+  "timestamp": "2025-07-15T12:31:03.670Z",
+  "id": "1752582663670",
+  "error_webhook": "Request failed with status code 404",
+  "error_details": {
+    "message": "Request failed with status code 404",
+    "stack": "AxiosError: Request failed with status code 404\n    at settle (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:2053:12)\n    at IncomingMessage.handleStreamEnd (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:3170:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:4280:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async E:\\source\\repos\\Encuesta_Empaque\\backend\\app.js:194:31",
+    "timestamp": "2025-07-15T12:31:03.670Z"
+  }
+}
