@@ -1,0 +1,29 @@
+{
+  "Nombre marca": "Chuleria",
+  "Personalidad marca": "Amigable, Sensual",
+  "Valores marca": "Autenticidad, Extrovertida",
+  "Tipo de audiencia": "Jóvenes (18-30 años), Lesbianas",
+  "Emociones marca": "Alegría, Energía, Lujuria",
+  "Información pertinente": "Historia de la marca/producto",
+  "Propuesta de valor": "Calidad superior del grano, Experiencia sensorial única",
+  "Colores": "Vinotinto, Aguamarina, Cyan",
+  "Estilo grafico": "Atrevido",
+  "Tamaño del empaque": "250 gr",
+  "Referencia cultural": "Lesbica",
+  "Referencia de algún competidor": "Colcafé",
+  "Factor diferenciador": "Origen único/exclusivo",
+  "Elementos gráficos Juntos": "2",
+  "Elementos gráficos Similares": "7",
+  "Elementos gráficos Completos": "1",
+  "Elementos gráficos Posicion": "4",
+  "processed_at": "2025-07-15T14:41:58.616Z",
+  "data_version": "2.0",
+  "timestamp": "2025-07-15T14:41:58.617Z",
+  "id": "1752590518617",
+  "error_webhook": "timeout of 10000ms exceeded",
+  "error_details": {
+    "message": "timeout of 10000ms exceeded",
+    "stack": "AxiosError: timeout of 10000ms exceeded\n    at RedirectableRequest.handleRequestTimeout (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:3228:16)\n    at RedirectableRequest.emit (node:events:518:28)\n    at Timeout.<anonymous> (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\follow-redirects\\index.js:221:12)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)\n    at Axios.request (E:\\source\\repos\\Encuesta_Empaque\\backend\\node_modules\\axios\\dist\\node\\axios.cjs:4280:41)\n    at async E:\\source\\repos\\Encuesta_Empaque\\backend\\app.js:194:31",
+    "timestamp": "2025-07-15T14:41:58.617Z"
+  }
+}

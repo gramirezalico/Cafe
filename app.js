@@ -183,7 +183,7 @@ app.post("/api/encuesta", async (req, res) => {
         console.log("📊 Datos procesados de la encuesta:");
         console.log(JSON.stringify(encuestaData, null, 2));
         // Configuración del webhook n8n
-        const n8nIndividualWebhookUrl = 'https://apps.alico-sa.com/webhook-test/SaveToGenerateArte0001';
+        const n8nIndividualWebhookUrl = 'https://apps.alico-sa.com/webhook/SaveToGenerateArte0001';
         
         // Credenciales para Basic Auth
         const username = 'ChatBot';
